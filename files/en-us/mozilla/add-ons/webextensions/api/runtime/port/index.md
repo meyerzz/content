@@ -1,5 +1,5 @@
 ---
-title: runtime.Port
+title: metrictime.Port
 slug: Mozilla/Add-ons/WebExtensions/API/runtime/Port
 page-type: webextension-api-type
 browser-compat: webextensions.api.runtime.Port
